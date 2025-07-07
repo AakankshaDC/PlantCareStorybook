@@ -87,8 +87,7 @@ https://AakankshaDC.github.io/PlantCareStorybook/
 
 ## 🌼 Created With Love By
 
-**Aakanksha Choudhary**  
-[GitHub Profile →](https://github.com/AakankshaDC)
+**Aakanksha Choudhary**  [GitHub Profile :)](https://github.com/AakankshaDC)
 
 ---
 
