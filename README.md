@@ -77,9 +77,10 @@ https://AakankshaDC.github.io/PlantCareStorybook/
 
 ## 📸 Screenshots
 
-| Index Page | Storybook Page |
-|------------|----------------|
-| <img width="846" alt="index" src="https://github.com/user-attachments/assets/57bec705-b4e2-4d41-985c-eac8079814a6" />
+| Index Page |
+|------------|
+| <img width="846" alt="index" src="https://github.com/user-attachments/assets/57bec705-b4e2-4d41-985c-eac8079814a6" /> |
+| Storybook Page |
 | <img width="797" alt="StoryPage" src="https://github.com/user-attachments/assets/c45d04d6-18a2-423b-b492-d38381b56793" /> |
 
 ---
